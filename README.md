@@ -20,5 +20,5 @@
 
 ![Домашнее задание](homework/homework.png)
 
-## Домашнее задание
-![Блок схема](homework/block_diagram.png)
+### Блок-схема
+![Блок-схема](homework/block_diagram.png)
