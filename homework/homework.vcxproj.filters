@@ -23,5 +23,11 @@
     <Image Include="homework.png">
       <Filter>Исходные файлы</Filter>
     </Image>
+    <Image Include="block_diagram.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="homework.drawio" />
   </ItemGroup>
 </Project>

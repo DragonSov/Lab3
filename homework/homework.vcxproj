@@ -126,7 +126,11 @@
     <ClCompile Include="homework.c" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="block_diagram.png" />
     <Image Include="homework.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="homework.drawio" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
